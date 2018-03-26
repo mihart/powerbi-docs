@@ -17,7 +17,7 @@ ms.devlang: NA
 ms.topic: get-started-article
 ms.tgt_pltfrm: NA
 ms.workload: powerbi
-ms.date: 01/20/2018
+ms.date: 01/21/2018
 ms.author: mihart
 
 LocalizationGroup: Get started
